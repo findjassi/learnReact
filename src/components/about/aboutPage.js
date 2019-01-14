@@ -28,6 +28,7 @@ var About = React.createClass({
                             <li>React Router</li>
                             <li>Flux</li>
                             <li>Node</li>
+                            <li>Gulp</li>
                         </ul>
                     </p>
                 </div>
